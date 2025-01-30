@@ -2,10 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<!--
 **fpontoglio/fpontoglio** é um repositório  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando na empresa Painel Fiscal, lá desenvolvemos sistemas para entregas de obrigações fiscias (Speds) em Delphi
 - 🌱 Estudando e aprendendo sobre Git e Git Hub, e IA com Phyton nos cursos da Alura
