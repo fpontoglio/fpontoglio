@@ -1,8 +1,6 @@
 ## Olá pessoal 👋 meu nome é Flávia Pontoglio
 
-## Bem vindo ao meu perfil GitHub 👋
-
-**fpontoglio/fpontoglio** é um repositório  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fpontoglio/fpontoglio** é um repositório  ✨ _especial_ ✨ porque tem o `README.md` (esse arquivo) do meu perfil do GitHub.
 
 - 🔭 Atualmente estou trabalhando na empresa [Painel Fiscal][an_awesome_website_link], lá desenvolvemos sistemas para entregas de obrigações fiscais [Speds][an_awesome_speds_link] em Delphi
 - 🌱 Estudando e aprendendo sobre Git e Git Hub, e IA com Phyton nos cursos da Alura
